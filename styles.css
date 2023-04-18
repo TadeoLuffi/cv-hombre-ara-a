@@ -1,0 +1,40 @@
+body { 
+    background-image:url()
+    
+}
+h1{
+    text-align: center;
+    background-color:red;
+    font-family:'Sedgwick Ave Display', cursiva; ;
+}
+h2{ 
+    text-align: center;
+    background-color:red;
+    font-family:'Sedgwick Ave Display', cursiva; ;
+}
+ h3{
+    background-color:blanchedalmond;
+    font-family: 'Sedgwick Ave Display', cursiva;;
+ }
+ p{
+    background-color:#FFFFFF;
+    font-family: 'Gloria Hallelujah', cursiva;;
+ }
+
+ /* footer */
+footer{
+    text-align: center;
+    background-color: red;
+}
+
+.imagenFooter{
+    width: 100px
+}
+
+/* header */
+
+header{
+    text-align: center;
+}
+
+
